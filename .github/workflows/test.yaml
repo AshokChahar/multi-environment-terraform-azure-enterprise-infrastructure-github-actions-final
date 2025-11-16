@@ -1,11 +1,11 @@
-name: dev
+name: test
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'environments/dev.tfvars'
+      - 'environments/test.tfvars'
 
   workflow_dispatch:
     inputs:
@@ -26,19 +26,19 @@ permissions:
   id-token: write
 
 concurrency:
-  group: dev-tf
+  group: test-tf
   cancel-in-progress: false
 
 jobs:
   call:
     uses: ./.github/workflows/terraform-multi.yml
     with:
-      environment:  dev
-      tfvars_file:  environments/dev.tfvars
+      environment:  test
+      tfvars_file:  environments/test.tfvars
       rgname:       ritkargv
       saname:       ritkasav
       scname:       ritkascv
-      key:          dev.tfstate
+      key:          test.tfstate
 
       # Run toggles
       runInit:     ${{ github.event_name == 'push' || inputs.do_init == true }}
